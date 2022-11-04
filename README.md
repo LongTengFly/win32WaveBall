@@ -9,7 +9,7 @@ Wave ball effect for win32 or C++projects
 
 部分效果图小如下：
 
-![wave_ball_show](https://github.com/LongTengFly/win32WaveBall/blob/main/GIF20221104_145812.gif)
+![wave_ball_show](https://img-blog.csdnimg.cn/b24fca028abd4e2dbd344c20faf42af4.gif)
 ## 使用
 只需要包含了头文件GdiplusWaveBall.h和添加gdi+库即可使用该类；详情可以参考Sample。
 
