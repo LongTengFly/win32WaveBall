@@ -1,14 +1,15 @@
 # win32WaveBall
 Wave ball effect for win32 or C++projects
 
-@[TOC](C++/Win32波浪球效果)
+(C++/Win32波浪球效果)
 # 简介
 这是一个基于C++在win32上实现的波浪球效果。它使用gid+进行图形绘制，支持指定签名、动态百分比显示以及特殊项目的PASS/FAIL显示。
 
 对其封装成了一个类，并开放了相关参数给用户设置，可以灵活使用。
 
 部分效果图小如下：
-![wave_ball_show](https://img-blog.csdnimg.cn/b24fca028abd4e2dbd344c20faf42af4.gif)
+
+![wave_ball_show](https://github.com/LongTengFly/win32WaveBall/blob/main/GIF%202022-11-4%2014-58-12.gif)
 ## 使用
 只需要包含了头文件GdiplusWaveBall.h和添加gdi+库即可使用该类；详情可以参考Sample。
 
